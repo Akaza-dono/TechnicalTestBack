@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\controllers\\sellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\controllers\\sellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\services\\sellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\services\\sellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SellService.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Services\\SellService.cs",
+              "RelativeDocumentMoniker": "TechnicalTest-API\\Services\\SellService.cs",
+              "ToolTip": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Services\\SellService.cs",
+              "RelativeToolTip": "TechnicalTest-API\\Services\\SellService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowE8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:17:59.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Program.cs",
+              "RelativeDocumentMoniker": "TechnicalTest-API\\Program.cs",
+              "ToolTip": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Program.cs",
+              "RelativeToolTip": "TechnicalTest-API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:54:47.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SellsController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Controllers\\SellsController.cs",
+              "RelativeDocumentMoniker": "TechnicalTest-API\\Controllers\\SellsController.cs",
+              "ToolTip": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Controllers\\SellsController.cs",
+              "RelativeToolTip": "TechnicalTest-API\\Controllers\\SellsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:33:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TechnicalTest-API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TechnicalTest-API\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:28:27.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
