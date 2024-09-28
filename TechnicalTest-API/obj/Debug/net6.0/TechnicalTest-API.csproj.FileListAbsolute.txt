@@ -74,3 +74,4 @@ C:\Users\migue\Documents\.NET Course\TechnicalTest-API\TechnicalTest-API\obj\Deb
 C:\Users\migue\Documents\.NET Course\TechnicalTest-API\TechnicalTest-API\obj\Debug\net6.0\TechnicalTest-API.pdb
 C:\Users\migue\Documents\.NET Course\TechnicalTest-API\TechnicalTest-API\obj\Debug\net6.0\TechnicalTest-API.genruntimeconfig.cache
 C:\Users\migue\Documents\.NET Course\TechnicalTest-API\TechnicalTest-API\obj\Debug\net6.0\ref\TechnicalTest-API.dll
+C:\Users\migue\Documents\.NET Course\TechnicalTest-API\TechnicalTest-API\obj\Debug\net6.0\TechnicalTest-API.sourcelink.json

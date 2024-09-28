@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\controllers\\sellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\controllers\\sellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\services\\sellservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|c:\\users\\migue\\documents\\.net course\\technicaltest-api\\technicaltest-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0B69F1E-065B-4507-B9F7-51DF7C5B48E4}|TechnicalTest-API\\TechnicalTest-API.csproj|solutionrelative:technicaltest-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\appsettings.json",
+              "RelativeDocumentMoniker": "TechnicalTest-API\\appsettings.json",
+              "ToolTip": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\appsettings.json",
+              "RelativeToolTip": "TechnicalTest-API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T23:26:09.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SellService.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Services\\SellService.cs",
               "RelativeDocumentMoniker": "TechnicalTest-API\\Services\\SellService.cs",
@@ -43,39 +60,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Program.cs",
               "RelativeDocumentMoniker": "TechnicalTest-API\\Program.cs",
               "ToolTip": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Program.cs",
               "RelativeToolTip": "TechnicalTest-API\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T19:54:47.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SellsController.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Controllers\\SellsController.cs",
               "RelativeDocumentMoniker": "TechnicalTest-API\\Controllers\\SellsController.cs",
               "ToolTip": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Controllers\\SellsController.cs",
               "RelativeToolTip": "TechnicalTest-API\\Controllers\\SellsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAfAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T19:33:25.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "TechnicalTest-API\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\migue\\Documents\\.NET Course\\TechnicalTest-API\\TechnicalTest-API\\Controllers\\LoginController.cs",
               "RelativeToolTip": "TechnicalTest-API\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCgAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T19:28:27.723Z",
               "EditorCaption": ""
