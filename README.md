@@ -6,3 +6,9 @@
 
 3. Garantizar que el proytecto de inicio sea el que aparece en la imagen seleccionado
       ![alt text](https://github.com/Akaza-dono/images/blob/main/proyecto.png?raw=true)<br>
+
+4. Para Autenticarse con Swagger dan clic en la siguiente opcion<br>
+      ![alt text](https://github.com/Akaza-dono/images/blob/main/Autorice.png?raw=true)<br>
+   y en la ventana que aparece pegan el token generado en api/login el cual les permitira crear un token con diferentes permisos, User: Admin, password: Admin o User: Noob, password: Noob<br>
+   ![alt text](https://github.com/Akaza-dono/images/blob/main/GeneracionLogToken.png?raw=true)<br>
+   De esta forma ya todos los endpoints tienen de referencia ese token para la autenticacion
